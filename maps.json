@@ -1,0 +1,11 @@
+{
+	"closedcontour": {
+		"url": "http://closedcontour.com/?zoom={z}&lat={lat}&lon={lon}"
+	}, 
+	"caltopo": {
+		"url": "http://caltopo.com/map.html#ll={lat},{lon}&z={z}&b=t&n=0.25&o=r"
+	},
+	"gmap4": {
+		"url": "http://www.mappingsupport.com/p/gmap4.php?ll={lat},{long}&t=t4&z={z}&hillshade=18&coord=latlng&directions=off&findme=off&label=off&skin=off"
+	}
+}
