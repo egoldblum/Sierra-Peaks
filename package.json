@@ -1,0 +1,20 @@
+{
+  "name": "Sierra-Peaks",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/egoldblum/Sierra-Peaks.git"
+  },
+  "author": "Ethan Goldblum",
+  "license": "MIT",
+  "gitHead": "d34c4b16fd65b7639f25833e923ce08901deaecc",
+  "dependencies": {
+    "request": "~2.27.0",
+    "jsdom": "~0.8.3"
+  }
+}
