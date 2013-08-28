@@ -15,6 +15,8 @@
   "gitHead": "d34c4b16fd65b7639f25833e923ce08901deaecc",
   "dependencies": {
     "request": "~2.27.0",
-    "jsdom": "~0.8.3"
+    "jsdom": "~0.8.3",
+    "mongodb": "~1.3.19",
+    "q": "~0.9.6"
   }
 }
