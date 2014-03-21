@@ -1,0 +1,33 @@
+<html>
+<head>
+<meta charset=utf-8 />
+<title>A Simple Map</title>
+
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css' rel='stylesheet' />
+
+<style>
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+
+</head>
+
+<body>
+<div id='map'></div>
+<script>
+var tileJSON = {
+  "tilejson": "2.0.0",
+  "name": "Sierra Peak Section Summits",
+  "attribution": "USGS map from <a href='http://caltopo.com/'>CalTopo</a>",
+  "minZoom": 5,
+  "maxZoom": 16,
+  "tiles": ["http://s3-us-west-1.amazonaws.com/caltopo/topo/{z}/{x}/{y}.png?v=1"]
+};
+
+var map = L.mapbox.map('map', tileJSON);
+</script>
+
+</body>
+</html>
