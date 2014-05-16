@@ -1,0 +1,7 @@
+http://climber.org/waypoints/driving/images/DinkeyCreek.txt.gpx
+http://climber.org/waypoints/driving/images/SequoiaKings.txt.gpx
+http://climber.org/waypoints/driving/images/KaiserPass.txt.gpx
+http://climber.org/waypoints/driving/images/chiquito.txt.gpx
+http://climber.org/waypoints/driving/images/395Waypoints.txt.gpx
+http://climber.org/waypoints/driving/images/NorthernSierra.txt.gpx
+http://climber.org/waypoints/driving/images/SouthernSierra.txt.gpx
